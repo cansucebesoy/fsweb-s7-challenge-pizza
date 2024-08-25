@@ -23,7 +23,7 @@ const Home = () => {
         <div className="flex flex-col items-center gap-y-4 sm:gap-y-8 px-8">
           <img className="mt-12" src="/logo.svg" alt="" />
           <p className="text-[#FDC913] font-satisfy text-xl">fırsatı kaçırma</p>
-          <p className="text-7xl text-center text-white font-light ">
+          <p className="text-7xl text-center text-white font-bold ">
             KOD ACIKTIRIR
             <br />
             PİZZA DOYURUR

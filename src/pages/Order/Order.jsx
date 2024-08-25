@@ -21,7 +21,7 @@ const Order = () => {
     toppings,
     name,
     note,
-    toppingsCost: toppings.length * 5,
+    toppingsCost: toppings.length * 10,
     pizzaCost: 85.5,
   };
 
